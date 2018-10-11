@@ -1,0 +1,17 @@
+{
+  "name": "array-reverse",
+  "version": "1.0.0",
+  "description": "Reverses any given array in the function",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Agu David <ominezx9@gmail.com>",
+  "license": "ISC"
+}
