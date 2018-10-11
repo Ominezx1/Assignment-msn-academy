@@ -1,0 +1,17 @@
+{
+  "name": "snake-case",
+  "version": "1.0.0",
+  "description": "This converts snakecase to camelCase",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Agu David <ominezx9@gmail.com>",
+  "license": "ISC"
+}
